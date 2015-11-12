@@ -25,6 +25,7 @@ Traveling Salesman
 To do this challenge, Google Geocoding API was used. Thus, there are some issues with running the file. I added Maven to this project through IntelliJ correctly and when I run from my IDE, everything works fine. However, when I run from terminal, I do get issues that the package is not found. I suggest running from an IDE like IntelliJ or Eclipse. These instructions might help: https://github.com/googlemaps/google-maps-services-java/. The following below is the code running in IntelliJ
 
 (in miles)
+
 miles or kilometers?: 
 miles
 Nov 12, 2015 1:07:40 PM com.google.maps.GeoApiContext getWithPath
@@ -40,6 +41,7 @@ New York City, USA -> Nunuk, Greenland: 1851.0 miles
 Total distance covered in your trip: 5477.0miles
 
 (in kilometers)
+
 miles or kilometers?: 
 kilometers
 Nov 12, 2015 1:08:21 PM com.google.maps.GeoApiContext getWithPath
