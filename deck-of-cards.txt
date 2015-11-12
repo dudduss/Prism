@@ -1,0 +1,27 @@
+Deck of Cards
+-------------
+
+Create a framework that models a generic deck of cards, with the following
+behaviors:
+
+  * Should contain an operation named Shuffle() that shuffles this deck
+    randomly.
+  * Should contain an operation called GetNextCard() that returns the next
+    card from the deck
+  * GetNextCard() should signal an error when the entire deck has been dealt
+    out
+  * A call to Shuffle() should cause all cards to be put back in the deck
+
+Using this framework, create a class to model a standard deck of 52 playing
+cards that contain 4 suits of 13 cards each.
+
+Include a README as part of your solution and explain:
+
+  * your design decisions
+  * how you resolved any ambiguity in the instructions
+  * how you would determine that your framework is working correctly for the
+    deck of playing cards
+
+Additionally, if you’ve been asked to solve this assignment in a compiled
+language, please include Makefile or something suitable that can be used
+to compile your code, with instructions in the README.
