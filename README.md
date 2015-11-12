@@ -36,8 +36,11 @@ Nov 12, 2015 1:07:41 PM com.google.maps.GeoApiContext getWithPath
 INFO: Request: https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyAM2sw09S1GTm5Zdi4tIvmpuuQ4LBOVnFY&address=New+York+City%2C+USA
 Nov 12, 2015 1:07:41 PM com.google.maps.GeoApiContext getWithPath
 INFO: Request: https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyAM2sw09S1GTm5Zdi4tIvmpuuQ4LBOVnFY&address=Nunuk%2C+Greenland
+
 Paris, France -> New York City, USA: 3626.0 miles
+
 New York City, USA -> Nunuk, Greenland: 1851.0 miles
+
 Total distance covered in your trip: 5477.0miles
 
 (in kilometers)
@@ -52,8 +55,11 @@ Nov 12, 2015 1:08:21 PM com.google.maps.GeoApiContext getWithPath
 INFO: Request: https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyAM2sw09S1GTm5Zdi4tIvmpuuQ4LBOVnFY&address=New+York+City%2C+USA
 Nov 12, 2015 1:08:21 PM com.google.maps.GeoApiContext getWithPath
 INFO: Request: https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyAM2sw09S1GTm5Zdi4tIvmpuuQ4LBOVnFY&address=Nunuk%2C+Greenland
+
 Paris, France -> New York City, USA: 5836.0 kilometers
+
 New York City, USA -> Nunuk, Greenland: 2980.0 kilometers
+
 Total distance covered in your trip: 8816.0kilometers
 
 
