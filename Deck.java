@@ -7,7 +7,7 @@ public class Deck {
 
 	private ArrayList<Card> deck;
 
-	//Inner class Card
+	//Inner class Card , Can't you see
 	public class Card {
 		String suit;
 		int value;
